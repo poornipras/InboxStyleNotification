@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InboxStyleNotification</string>
+    <string name="title_activity_inbox_">Inbox_Activity</string>
+</resources>
